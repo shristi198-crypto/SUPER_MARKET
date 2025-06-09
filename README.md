@@ -48,11 +48,7 @@ The **Super Market Sales Dashboard** is a Power BI project that delivers deep in
 ---
 
 ## 🖼️ Screenshots
-
-
-
-![Uploading Screenshot 2025-06-10 022610.png…]()
-
+"C:\Users\Shristi\Pictures\Screenshots\Screenshot 2025-06-10 022610.png"
 ---
 
 ## 🚀 How to Use
